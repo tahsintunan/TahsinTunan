@@ -6,7 +6,7 @@
 
 I'm an aspiring Software Engineer, Web Developer, and hobbyist Game Developer. Currently pursuing a bachelor's degree in Software Engineering at IICT, SUST. My areas of interest are Fintech in Defi, Deep Learning, and Software Architecture.
 
-Aside from CS stuff, I also have a keen interest in customer-driven iterative product development and managing teams. Love to observe and absorb as much knowledge as possible and apply it in my work.
+Aside from CS stuff, I also have a keen interest in customer-driven iterative product development and managing teams. Love to observe and absorb as much knowledge as possible and apply it to my work.
 
 
 ### Tech Stack
