@@ -13,7 +13,7 @@ Aside from CS stuff, I also have a keen interest in customer-driven iterative pr
 
 ```json
 {
-  "language": ["python", "javaScript", "typescript", "csharp"],
+  "language": ["python", "typescript", "csharp", "go"],
   "frontend": ["react", "next", "vue"],
   "backend": ["node", "flask", "firebase"],
   "database": ["postgres", "mongodb", "redis"],
