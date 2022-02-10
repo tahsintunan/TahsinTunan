@@ -13,10 +13,10 @@ Aside from CS stuff, I also have a keen interest in customer-driven iterative pr
 
 ```json
 {
-  "language": ["python", "typescript", "csharp", "go"],
+  "language": ["go", "python", "typescript", "csharp"],
   "frontend": ["react", "next", "vue"],
-  "backend": ["node", "flask", "firebase"],
-  "database": ["postgres", "mongodb", "redis"],
+  "backend": ["go", "node", "flask", "firebase"],
+  "database": ["postgres", "mysql", "mongodb", "redis"],
   "ml-library": ["scikit-learn", "keras"],
 }
 ```
