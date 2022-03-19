@@ -28,7 +28,7 @@ Aside from CS stuff, I also have a keen interest in customer-driven iterative pr
 - 🌱 **Currently learning:** React Native, Django, RDBMS
 - 🧪 **Experimenting on:** GraphQL, Kubernetes
 - 📚 **Currently reading:** Designing Data-Intensive Applications - _Martin Kleppmann_
-- 👯 **Looking to collaborate on:** Any Defi related CS Research project
+- 👯 **Looking to collaborate on:** Research projects focused on Cellular Automata or Neural Networks
 - 🤔 **Looking for help with:** Systems Design, Micro-frontend Architecture, CI/CD
 - 💬 **Ask me about:** Coding, Games, Classical Music, Mythology
 - ⚡ **Fun fact:** [INTJ-A](https://www.16personalities.com/intj-personality) (Yes, I unironically find MBTI pretty accurate)
