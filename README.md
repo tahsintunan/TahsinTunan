@@ -4,7 +4,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/tahsintunan/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:tahsintunan@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
-I'm an aspiring Software Engineer, Web Developer, and hobbyist Game Developer. Currently pursuing a bachelor's degree in Software Engineering at IICT, SUST. My areas of interest are Fintech in Defi, Deep Learning, and Software Architecture.
+I'm an aspiring Software Engineer, Web Developer, and hobbyist Game Developer. Currently pursuing a bachelor's degree in Software Engineering at IICT, SUST. My areas of interest are Computer Simulation Modelling, Web3 based Fintech, Deep Learning, and Software and Systems Architecture.
 
 Aside from CS stuff, I also have a keen interest in customer-driven iterative product development and managing teams. Love to observe and absorb as much knowledge as possible and apply it to my work.
 
