@@ -15,7 +15,7 @@ Aside from CS stuff, I also have a keen interest in customer-driven iterative pr
 {
   "language": ["go", "python", "typescript", "csharp"],
   "frontend": ["react", "next", "vue"],
-  "backend": ["go", "node", "flask", "firebase"],
+  "backend": ["go", "node", "flask"],
   "database": ["postgres", "mysql", "mongodb", "redis"],
   "ml-library": ["scikit-learn", "keras"],
 }
