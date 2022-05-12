@@ -15,7 +15,7 @@ Aside from CS stuff, I also have a keen interest in customer-driven iterative pr
 {
   "language": ["go", "python", "typescript", "csharp"],
   "frontend": ["react", "next", "vue"],
-  "backend": ["go", "node", "flask"],
+  "backend": ["go", "node", "django", "flask"],
   "database": ["postgres", "mysql", "mongodb", "redis"],
   "ml-library": ["scikit-learn", "keras"],
 }
@@ -25,7 +25,7 @@ Aside from CS stuff, I also have a keen interest in customer-driven iterative pr
 ### Things you might wanna know
 
 <!-- - 🔭 **Currently working on:** ... -->
-- 🌱 **Currently learning:** React Native, Django, RDBMS
+- 🌱 **Currently learning:** React Native, Rust
 - 🧪 **Experimenting on:** GraphQL, Kubernetes
 - 📚 **Currently reading:** ~~Designing Data-Intensive Applications - _Martin Kleppmann_~~
 - 👯 **Looking to collaborate on:** Research projects focused on Cellular Automata or Neural Networks
